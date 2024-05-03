@@ -12,8 +12,8 @@ function brackets(e) {
     }
 }
 if (total === total2) {
-  alert("Yes");
+  alert("Qavslar soni teng");
 }else{
-  alert("No");
+  alert("Qavslar soni teng emas ");
 }
 }
